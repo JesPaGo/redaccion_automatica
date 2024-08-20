@@ -1,0 +1,32 @@
+name: management ##agente_recuperacion_iot
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.*
+  - ipykernel
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - openai
+  - faiss-cpu
+  - datasets
+  - tqdm
+  - gradio
+  - adjustText
+  - pip:
+    - tiktoken
+    - ragas
+    - PyMuPDF
+    - langdetect
+    - langchain-text-splitters
+    - langchain-openai
+    - langchain-core
+    - langchain-community
+    - langchain-cohere
+    - langchain
+    - bert_score
+    - deep-translator
