@@ -205,27 +205,9 @@ La estructura de los cuadernos sobre modelos es la siguiente:
 5. Ejemplo de respuesta y funcionamiento.
 6. Interfaz gráfica.
 
-- [ ] [Agentes básicos](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/agents/agente-basico.md)
-- [ ] [Agentes basados en moda](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/agents/agente-moda.md)
-- [ ] [Agentes con reranker](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/agents/agente-reranker.md)
-- [ ] [Agentes de conjunto (ensemble)](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/agents/agente-ensemble.md)
----
-## Funcionalidades
-- [ ] [Creación de un Excel de productos](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/crear-excel.md)
-- [ ] [Lista de equipos](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/lista-equipo.md)
-- [ ] [Ampliación de la base de datos](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/ampliar-basedatos.md)
-- [ ] [Formato de preguntas para el modelo](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/formato-preguntas.md)
-- [ ] [Creación de un conjunto de datos de test](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/crear-datos-test.md)
-- [ ] [Validación de un conjunto de datos](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/validacion-datos.md)
-- [ ] [Lista de métricas](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/lista-metricas.md)
-- [ ] (WIP) [Implementar historial de conversación](https://gitlab.innovasur.es/ia/agente-inteligente-recuperacion-sensorica-iot/docs/historial-conversacion.md)
----
 ## Soporte
 Ante cualquier duda, puede contactar conmigo a través del correo:
 ```
-jgpg000.edu@innovasur.com
+jespargon1@correo.ugr.es
 ```
 ---
-## Hoja de ruta
-- Implementación de un historial de conversación
-- Redirigir los enlaces de los Markdown
